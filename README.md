@@ -45,11 +45,3 @@ The model employs **Multinomial Naive Bayes**, a popular algorithm for text clas
 - 📊 Feature Extraction: Using term frequency-inverse document frequency (TF-IDF).
 - 📊 Training and Validation: Split the dataset into training and testing sets.
 
----
-
-## Installation
-
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/yourusername/spam-detection-classifier.git
-   cd spam-detection-classifier
